@@ -70,5 +70,15 @@ python predict.py
 2. SVM classifies features into **cat (0)** or **dog (1)**
 3. Generates Kaggle-ready `submission.csv`
 
+## 🌟 Support the Project
 
+If this project helped you, please consider giving it a star! ⭐️  
+Your support helps me improve and maintain the code.
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/reponame?style=social)](https://github.com/yourusername/reponame)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/reponame?style=social)](https://github.com/yourusername/reponame/network/members)
+
+```bash
+# Quick clone (if you haven't already)
+git clone https://github.com/ARYAN15032005/SCT-ML-03
 
